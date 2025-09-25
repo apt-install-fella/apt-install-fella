@@ -10,8 +10,8 @@
 <div align="center">
   
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,js,py,java,sqlite, php, gds)](https://skillicons.dev)
-  <img src="https://skillicons.dev/icons?i=c#,c,java,python,cs,html,css,js,mysql,sqlite,gdscript,php" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=c#,c,java,python,cs,html,css,js,mysql,sqlite,gdscript,php" />
 </p>
 
 <p align="left">
