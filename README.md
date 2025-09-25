@@ -7,7 +7,10 @@
 ---
 
 ## Langages
+<div align="center">
+  
 <p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,js,py,java,sqlite, php, gds)](https://skillicons.dev)
   <img src="https://skillicons.dev/icons?i=c#,c,java,python,cs,html,css,js,mysql,sqlite,gdscript,php" />
   let's not talk about human languages.
 </p>
@@ -18,9 +21,9 @@
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| 🚀 SuperApp | Une appli trop cool | [Repo](https://github.com/TON_PSEUDO/SuperApp) |
-| 🎮 Jeu 2D | Mon premier jeu avec Godot | [Repo](https://github.com/TON_PSEUDO/Jeu2D) |
-| 📊 Data Viz | Stats en Python | [Repo](https://github.com/TON_PSEUDO/DataViz) |
+| Jeu de role | Simulation d'une partie de donjon et dragon | [Repo](https://github.com/TON_PSEUDO/SuperApp) |
+| Jeu serieux | Mon premier jeu avec Godot | [Repo](https://github.com/TON_PSEUDO/Jeu2D) |
+| Application de gestion | Projet s'appuyant sur une large base de données | [Repo](https://github.com/TON_PSEUDO/DataViz) |
 
 
 ---
@@ -29,7 +32,6 @@
 - Email : fellabennounas@gmail.com  
 - [LinkedIn](https://linkedin.com/in/ton-profil)  
 - [Discord](https://ton-site.com)
-- [![Discord](https://img.shields.io/discord/919215038621974568?label=Discord&logo=discord&color=5865F2)](https://discord.gg/tonLien)
 
 
 ---
@@ -37,12 +39,6 @@
 ## 🎵 Une petite touche fun
 ![Random meme](https://random-memer.herokuapp.com/)
 
----
-
-## 🎨 Badges cools
-![Profile views](https://komarev.com/ghpvc/?username=TON_PSEUDO&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/TON_PSEUDO?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/TON_PSEUDO?affiliations=OWNER&style=social)
 
 ---
 
