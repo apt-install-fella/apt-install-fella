@@ -10,7 +10,7 @@
 <div align="center">
   
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,sqlite,php,godot" />
+<img src="https://skillicons.dev/icons?i=c,dotnet,java,python,html,css,js,mysql,sqlite,php,godot" />
 </p>
 
 <p align="left">
