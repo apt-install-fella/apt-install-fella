@@ -1,14 +1,12 @@
-# echo "Hello World"
+# ✮⋆˙ Hello world! ˙⋆✮
 
 ## À propos de moi
-- Juste une personne qui decouvre le monde de la programmation et developpement en general.
+- Juste une personne qui decouvre le monde de la programmation et du developpement en general.
 - J'aime bien le C# :)
 
 ---
 
-## Langages
-<div align="center">
-  
+## Langages  
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,dotnet,java,python,html,css,js,mysql,sqlite,php,godot" />
 </p>
@@ -30,19 +28,35 @@
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 - Email : fellabennounas@gmail.com  
-- [LinkedIn](https://linkedin.com/in/ton-profil)  
-- [Discord](https://ton-site.com)
+- Discord : [Mon profil](https://discord.com/channels/@me/919215038621974568)
 
 
 ---
 
-## 🎵 Une petite touche fun
-![Random meme](https://random-memer.herokuapp.com/)
+## Musique
+˚ ༘ ·˚꒰Taking what's not yours꒱ ₊˚ˑ
+<br>
+1:35 ━━━●───── 3:47
+<br>
+           ↻ ◁ II ▷ ↺
+           <br>
+↠ⁿᵉˣᵗ ˢᵒⁿᵍ ↺ ʳᵉᵖᵉᵃᵗ ⊜ ᵖᵃᵘˢᵉ
+<br>
+volυмe : ▁▂▃▄▅▆▇▉
+<br>
+
+
+
+[![Écouter sur YouTube](https://img.shields.io/badge/🎵%20Écouter-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Ox5ENW0CeAU)
+
 
 
 ---
 
-## 🐍 Animation fun
-![Snake animation](https://github.com/apt-install-fella/apt-install-fella/blob/output/github-contribution-grid-snake.svg)
+## À bientot
+<p align="center">
+  
+  <img src="https://i.pinimg.com/originals/16/c5/e1/16c5e10d2e38ac72766ab7135cfdc1af.gif" width="500" height="200" />
+</p>
