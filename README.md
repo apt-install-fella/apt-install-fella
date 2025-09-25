@@ -10,7 +10,6 @@
 <div align="center">
   
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <img src="https://skillicons.dev/icons?i=c#,c,java,python,cs,html,css,js,mysql,sqlite,gdscript,php" />
 </p>
 
@@ -46,4 +45,4 @@
 ---
 
 ## 🐍 Animation fun
-![Snake animation](https://github.com/TON_PSEUDO/TON_PSEUDO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/apt-install-fella/apt-install-fella/blob/output/github-contribution-grid-snake.svg)
