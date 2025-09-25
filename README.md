@@ -1,40 +1,36 @@
-# 👋 Hello World, bienvenue sur mon profil GitHub !
+# echo "Hello World"
 
-## 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur **un projet cool**
-- 🌱 J’apprends **C, C#, SQL et un peu de web**
-- 👯 J’aimerais collaborer sur **des projets open source**
-- 💬 Pose-moi des questions sur **Linux, programmation, etc.**
-- ⚡ Fun fact : J’écris souvent du code avec du café ☕
+## À propos de moi
+- Juste une personne qui decouvre le monde de la programmation et developpement en general.
+- J'aime bien le C# :)
 
 ---
 
-## 🛠️ Langages et Outils
+## Langages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,python,java,cs,html,css,js,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=c#,c,java,python,cs,html,css,js,mysql,sqlite,gdscript,php" />
+  let's not talk about human languages.
 </p>
 
 ---
 
-## 📊 Stats GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical" alt="stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="langages les plus utilisés" />
-</p>
+## Mes projets
 
----
+| Projet | Description | Lien |
+|--------|-------------|------|
+| 🚀 SuperApp | Une appli trop cool | [Repo](https://github.com/TON_PSEUDO/SuperApp) |
+| 🎮 Jeu 2D | Mon premier jeu avec Godot | [Repo](https://github.com/TON_PSEUDO/Jeu2D) |
+| 📊 Data Viz | Stats en Python | [Repo](https://github.com/TON_PSEUDO/DataViz) |
 
-## 🔥 Streak (jours consécutifs de code)
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TON_PSEUDO&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
 ## 📫 Me contacter
-- ✉️ Email : tonemail@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ton-profil)  
-- 🌐 [Portfolio](https://ton-site.com)
+- Email : fellabennounas@gmail.com  
+- [LinkedIn](https://linkedin.com/in/ton-profil)  
+- [Discord](https://ton-site.com)
+- [![Discord](https://img.shields.io/discord/919215038621974568?label=Discord&logo=discord&color=5865F2)](https://discord.gg/tonLien)
+
 
 ---
 
