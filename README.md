@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="800" height="270" alt="image" src="https://i.pinimg.com/originals/e6/f7/d3/e6f7d34c80ef47899caaf3edb02e72c1.gif" />
+  
+
+</p>
+
 # ✮⋆˙ Hello world! ˙⋆✮
 
 ## À propos de moi
