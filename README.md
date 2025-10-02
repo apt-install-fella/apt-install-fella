@@ -1,5 +1,5 @@
 <p align="center">
- <img width="800" height="270" alt="image" src="https://i.pinimg.com/originals/e6/f7/d3/e6f7d34c80ef47899caaf3edb02e72c1.gif" />
+  <img src="https://i.pinimg.com/originals/16/c5/e1/16c5e10d2e38ac72766ab7135cfdc1af.gif" width="500" height="200" />
   
 
 </p>
@@ -7,7 +7,7 @@
 # ✮⋆˙ Hello world! ˙⋆✮
 
 ## À propos de moi
-- Juste une personne qui découvre le monde de la programmation et du développement en général.
+- Juste une personne qui découvre depuis quelques années le monde de la programmation et du développement en général.
 - J'aime bien le C# :)
   
 ---
@@ -26,7 +26,7 @@
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| Jeu de rôle | Simulation d'une partie de Donjon et Dragon | [Repo](https://github.com/TON_PSEUDO/SuperApp) |
+| Jeu de rôle | Simulation d'une partie de Donjons et Dragon | [Repo](https://github.com/TON_PSEUDO/SuperApp) |
 | Jeu sérieux | Mon premier jeu avec Godot | [Repo](https://github.com/TON_PSEUDO/Jeu2D) |
 | Application de gestion | Projet s'appuyant sur une large base de données | [Repo](https://github.com/TON_PSEUDO/DataViz) |
 
@@ -57,10 +57,4 @@ volυмe : ▁▂▃▄▅▆▇▉
 
 
 
----
 
-## À bientôt
-<p align="center">
-  
-  <img src="https://i.pinimg.com/originals/16/c5/e1/16c5e10d2e38ac72766ab7135cfdc1af.gif" width="500" height="200" />
-</p>
