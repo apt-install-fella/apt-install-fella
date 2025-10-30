@@ -23,11 +23,11 @@
 
 ## Mes projets
 
-| Projet | Description | Lien |
-|--------|-------------|------|
-| Jeu de rôle | Simulation d'une partie de Donjons et Dragon | [Repo](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
-| Jeu sérieux | Mon premier jeu avec Godot | [Repo](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
-| Application de gestion | Projet s'appuyant sur une large base de données | [Repo](https://github.com/apt-install-fella/PimPomBro) |
+| Projet | Description | Durée | Lien |
+|--------|-------------| ------|------|
+| Jeu sérieux | Mon premier jeu avec Godot | 16 semaines | [Repo](https://github.com/apt-install-fella/ArchiPoleNord) |
+| Jeu de rôle | Simulation d'une partie de Donjons et Dragon | 12 semaines | [Repo](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
+| Application de gestion | Projet s'appuyant sur une large base de données | 12 semaines | [Repo](https://github.com/apt-install-fella/PimPomBro) |
 
 
 ---
