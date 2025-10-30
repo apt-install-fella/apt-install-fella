@@ -25,9 +25,10 @@
 
 | Projet | Description | Durée | Lien |
 |--------|-------------| ------|------|
-| Jeu sérieux | Mon premier jeu avec Godot | 16 semaines | [Repo](https://github.com/apt-install-fella/ArchiPoleNord) |
-| Jeu de rôle | Simulation d'une partie de Donjons et Dragon | 12 semaines | [Repo](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
-| Application de gestion | Projet s'appuyant sur une large base de données | 12 semaines | [Repo](https://github.com/apt-install-fella/PimPomBro) |
+| Jeu sérieux | Mon premier jeu avec Godot | 16 semaines | [ArchiPoleNord](https://github.com/apt-install-fella/ArchiPoleNord) |
+| Jeu de rôle | Simulation d'une partie de Donjons et Dragon | 12 semaines | [D&D](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
+| Application de gestion | Projet s'appuyant sur une large base de données | 12 semaines | [PimPomBro](https://github.com/apt-install-fella/PimPomBro) |
+| Jeu de Yams | Programmer une partie de jeu puis visualiser son déroulement en Web | 8 semaines | [Yams](https://github.com/apt-install-fella/Yams) | 
 
 
 ---
