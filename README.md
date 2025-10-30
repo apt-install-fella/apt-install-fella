@@ -26,8 +26,8 @@
 | Projet | Description | Lien |
 |--------|-------------|------|
 | Jeu de rôle | Simulation d'une partie de Donjons et Dragon | [Repo](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
-| Jeu sérieux | Mon premier jeu avec Godot | [Repo](https://github.com/TON_PSEUDO/Jeu2D) |
-| Application de gestion | Projet s'appuyant sur une large base de données | [Repo](https://github.com/TON_PSEUDO/DataViz) |
+| Jeu sérieux | Mon premier jeu avec Godot | [Repo](https://github.com/apt-install-fella/Donjon-Et-Dragon) |
+| Application de gestion | Projet s'appuyant sur une large base de données | [Repo](https://github.com/apt-install-fella/PimPomBro) |
 
 
 ---
