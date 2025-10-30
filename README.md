@@ -8,7 +8,6 @@
 
 ## À propos de moi
 - Juste une personne qui découvre depuis quelques années le monde de la programmation et du développement en général.
-- J'aime bien le C# :)
   
 ---
 
@@ -32,29 +31,13 @@
 
 
 ---
+## Compétences
+- programmation onrientée objet
+- Manipulation de bases Oracles
+- Realisation de pages web
+---
 
 ## Me contacter
 - Email : fellabennounas@gmail.com  
 - Discord : [Mon profil](https://discord.com/channels/@me/919215038621974568)
-
-
----
-
-## Musique
-
-˚ ༘ ·˚꒰ᴛᴀᴋɪɴɢ ᴡʜᴀᴛ'ꜱ ɴᴏᴛ ʏᴏᴜʀꜱ꒱ ₊˚ˑ
-<br>
-1:35 ━━━●───── 3:47
-<br>
-           ↻ ◁ II ▷ ↺
-<br>
-↠ⁿᵉˣᵗ ˢᵒⁿᵍ ↺ ʳᵉᵖᵉᵃᵗ ⊜ ᵖᵃᵘˢᵉ
-<br>
-volυмe : ▁▂▃▄▅▆▇▉
-<br>
-
-[![Écouter sur YouTube](https://img.shields.io/badge/🎵%20Écouter-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Ox5ENW0CeAU)
-
-
-
 
