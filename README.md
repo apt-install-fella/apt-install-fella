@@ -32,7 +32,7 @@
 
 ---
 ## Compétences
-- programmation onrientée objet
+- Programmation onrientée objet
 - Manipulation de bases Oracles
 - Realisation de pages web
 ---
