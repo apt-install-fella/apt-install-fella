@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/c5/e1/16c5e10d2e38ac72766ab7135cfdc1af.gif" width="500" height="200" />
-  
-
 </p>
+
 
 # ✮⋆˙ Hello world! ˙⋆✮
 
@@ -45,4 +44,8 @@
 ## Me contacter
 - Email : fellabennounas@gmail.com  
 - Discord : [Mon profil](https://discord.com/channels/@me/919215038621974568)
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=apt-install-fella&style=for-the-badge&color=brightgreen&label=VUES)
+
 
