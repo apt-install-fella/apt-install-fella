@@ -13,7 +13,7 @@
 
 ## Langages  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,dotnet,java,python,html,css,js,mysql,sqlite,php,godot" />
+<img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,html,css,js,php,mysql,sqlite,laravel,godot,bash" />
 </p>
 
 
@@ -33,9 +33,13 @@
 
 ---
 ## Compétences
-- Programmation onrientée objet
+- Programmation orientée objet
 - Manipulation de bases Oracles
 - Realisation de pages web
+- Maitrise de Swing (Java)
+- Utilisation de Visual Studio
+- Gestion de projets
+  
 ---
 
 ## Me contacter
