@@ -6,11 +6,11 @@
 # ✮⋆˙ Hello world! ˙⋆✮
 
 ## À propos de moi
-- Juste une personne qui découvre depuis quelques années le monde de la programmation et du développement en général.
+- Juste une personne qui découvre depuis quelques années le monde de la programmation et du développement informatique en général.
   
 ---
 
-## Langages  
+## Code  
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,html,css,js,php,mysql,sqlite,laravel,godot,bash" />
 </p>
