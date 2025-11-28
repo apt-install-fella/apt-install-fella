@@ -38,6 +38,7 @@
 - Maitrise de Swing (Java)
 - Utilisation de Visual Studio
 - Gestion de projets
+- Autres
   
 ---
 
